@@ -78,7 +78,7 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "index.html";
+    window.location.href = "index-old.html";
 }
 
 const transitionEl = document.querySelector('.page-transition');
@@ -104,4 +104,5 @@ const snowContainer = document.createElement('div');
     setTimeout(() => {
       snow.remove();
     }, 10000);
+
   }, 200);
