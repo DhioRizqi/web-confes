@@ -1,0 +1,9 @@
+{
+  "cleanUrls": false,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
