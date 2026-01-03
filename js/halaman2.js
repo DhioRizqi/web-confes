@@ -56,8 +56,8 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Yang bener ah litaa?",
-    "Litaa pliss..",
+    "Yang bener ah?",
+    "pliss..",
     "Coba fikirin lagi yaa",
     "If you say no, I will be really sad...",
     "I will be very sad...",
@@ -106,3 +106,4 @@ const snowContainer = document.createElement('div');
     }, 10000);
 
   }, 200);
+
